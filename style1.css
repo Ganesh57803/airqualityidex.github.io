@@ -1,0 +1,29 @@
+body {
+	background-image: url("bg.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+heading{
+    color: aqua;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 100px;
+}
+
+h1 {
+	font-size: 3rem;
+}
+
+button {
+	font-size:2rem;
+    font-family: akira expanded;
+	padding: 10px 20px;
+	border-radius: 5px;
+	background-color: #116eca;
+	color: rgb(175, 34, 144);
+	cursor: pointer;
+}
